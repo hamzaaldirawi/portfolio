@@ -1,0 +1,7 @@
+const themeTypes = {
+    CHANGE_THEME_DARK: 'CHANGE_THEME_DARK',
+    CHANGE_THEME_LIGHT: 'CHANGE_THEME_LIGHT',
+    CHANGE_DISPLAY: 'CHANGE_DISPLAY'
+}
+
+export default themeTypes;

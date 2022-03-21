@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="45" height="45" viewBox="0 0 1080 1080" xml:space="preserve">
+    <g transform="matrix(5.77 0 0 5.77 551.5 551.5)" id="8fda57b5-d57f-4c75-9ae2-bb09e1263a27"  >
+        <polygon style="stroke-width: 43;
+        stroke-dasharray: none;
+        stroke-linecap: butt;
+        stroke-dashoffset: 0;
+        stroke-linejoin: miter;
+        stroke-miterlimit: 4;
+        fill: var(--green-color);
+        fill-opacity: 0.59;
+        fill-rule: nonzero;
+        opacity: 0.5;"
+        vector-effect="non-scaling-stroke"
+        points="-37.43,32.41 0,-32.41 37.43,32.41 " />
+    </g>
+</svg>
